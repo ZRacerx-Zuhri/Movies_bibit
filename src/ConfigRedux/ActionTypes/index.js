@@ -1,0 +1,7 @@
+//GetMovies
+export const GET_DATA_MOVIES = "GET_DATA_MOVIES";
+export const FAILED_GET_DATA_MOVIES = "FAILED_GET_DATA_MOVIES";
+export const SUCCESS_GET_DATA_MOVIES = "SUCCESS_GET_DATA_MOVIES ";
+
+//SearchMovies
+export const SEARCH_MOVIES = "SEARCH_MOVIES";
